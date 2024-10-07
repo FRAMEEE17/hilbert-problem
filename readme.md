@@ -9,8 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Performance Optimizations](#performance-optimizations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
